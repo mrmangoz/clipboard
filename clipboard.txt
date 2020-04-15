@@ -1,0 +1,4 @@
+https://www.evetech.co.za/asus-vivobook-s14-s432fl-core-i5-professional-laptop/laptops-for-sale/13881.aspx
+https://www.hificorp.co.za/acer-a315-core-i5-8265u-4gb-512ssd-notebook?gclid=CjwKCAiAvonyBRB7EiwAadauqVCku9cXFVgjah8Z0uBoUyx257cbQWOkmQOSf5YMGUwLe3dGrRnw0BoCi0MQAvD_BwE
+import win32cli
+otkey_paste(clipboard_string=""):
